@@ -1,0 +1,24 @@
+Successfully added player of type Beginner with username: handyUser33
+Player handyUser33 already exists!
+Successfully added player of type Advanced with username: cool11
+Successfully added player of type Beginner with username: testUser
+Successfully added card of type TrapCard with name: Cyber
+Successfully added card of type MagicCard with name: Sorcerer
+Successfully added card of type TrapCard with name: Iris
+Card Iris already exists!
+Successfully added card of type TrapCard with name: Jar
+Successfully added card: Cyber to user: handyUser33
+Card cannot be null!
+Card cannot be null!
+Card cannot be null!
+Attack user health 95 - Enemy user health 0
+Player is dead!
+Player is dead!
+Player is dead!
+Username: handyUser33 - Health: 95 - Cards 1
+Card: Cyber - Damage: 150
+###
+Username: cool11 - Health: 250 - Cards 0
+###
+Username: testUser - Health: 0 - Cards 0
+###

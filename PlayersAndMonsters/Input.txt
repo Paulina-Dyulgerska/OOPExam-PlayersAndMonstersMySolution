@@ -1,0 +1,19 @@
+AddPlayer Beginner handyUser33
+AddPlayer Advanced handyUser33
+AddPlayer Advanced cool11
+AddPlayer Beginner testUser
+AddCard Trap Cyber
+AddCard Magic Sorcerer
+AddCard Trap Iris
+AddCard Trap Iris
+AddCard Trap Jar
+AddPlayerCard handyUser33 Cyber
+AddPlayerCard handyUser33 Blaster
+AddPlayerCard cool11 Neptune
+AddPlayerCard testUser Neptune
+Fight handyUser33 testUser
+Fight handyUser33 testUser
+Fight handyUser33 testUser
+Fight cool11 testUser
+Report
+Exit
