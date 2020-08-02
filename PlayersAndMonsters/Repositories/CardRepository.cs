@@ -8,7 +8,7 @@
 
     public class CardRepository : ICardRepository
     {
-        private Dictionary<string, ICard> cardRepository;
+        private IDictionary<string, ICard> cardRepository;
         public CardRepository()
         {
             this.cardRepository = new Dictionary<string, ICard>();

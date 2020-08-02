@@ -8,7 +8,7 @@
 
     public class PlayerRepository : IPlayerRepository
     {
-        private Dictionary<string, IPlayer> playerRepository;
+        private IDictionary<string, IPlayer> playerRepository;
 
         public PlayerRepository()
         {
